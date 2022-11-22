@@ -20,7 +20,7 @@ export function Home() {
   }
 
   useEffect(() => {
-    fetch('http://10.10.10.34:3333/games')
+    fetch('http://10.10.10.35:3333/games')
       .then(response => response.json())
       .then(data => setGames(data))
   }, [])
