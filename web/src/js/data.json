@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "bannerUrl": "../public/game-1.png", 
+    "title": "Dota 2",
+    "adsCount": "0"
+  },
+  {
+    "id": "2",
+    "bannerUrl": "../public/game-2.png", 
+    "title": "Apex Legends",
+    "adsCount": "3"
+  },
+  {
+    "id": "3",
+    "bannerUrl": "../public/game-3.png", 
+    "title": "CS: GO",
+    "adsCount": "2"
+  },
+  {
+    "id": "4",
+    "bannerUrl": "../public/game-4.png", 
+    "title": "League of Legends",
+    "adsCount": "3"
+  },
+  {
+    "id": "5",
+    "bannerUrl": "../public/game-5.png", 
+    "title": "World of Warcraft",
+    "adsCount": "0"
+  },
+  {
+    "id": "6",
+    "bannerUrl": "../public/game-6.png", 
+    "title": "Fortnite",
+    "adsCount": "1"
+  }
+]
